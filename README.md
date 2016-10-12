@@ -1,2 +1,2 @@
 # Maze-generation-algorithms
-algorithms tester
+testing algorithms
